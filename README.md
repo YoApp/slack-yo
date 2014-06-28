@@ -21,7 +21,7 @@ Ever want to get your team's attention when you have standup or an important mee
   * Make sure to replace '[YOUR_YO_API_TOKEN]'
 6. `git push heroku master`
 7. `heroku info`
-  * Copy the outputted URL to your clipboard
+  * Copy the outputted URL on the last line to your clipboard
 8. Head over to your team's Slack 'Outgoing WebHooks' page
 ![](http://i.imgur.com/50jJYUs.png)
 9. Click Add Outgoing Webhook

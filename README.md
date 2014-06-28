@@ -1,4 +1,4 @@
-# Yo [Slack](https://slack.com/) Integration
+# Yo [Slack](https://slack.com/) Integration by [@jasdev](https://twitter.com/jasdev)
 
 Ever want to get your team's attention when you have standup or an important meeting? You've come to the right place yo. With this repo, you can quickly setup an outgoing webhook from your Slack channels to Yo the team at a moment's notice.
 

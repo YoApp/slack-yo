@@ -30,4 +30,4 @@ Ever want to get your team's attention when you have standup or an important mee
 11. Have everyone on your team send a Yo to the username you sent in the form to obtain a Yo API Key!
 12. Try it out in Slack!
 
-![](http://i.imgur.com/snMdCT4.png)
+![](http://i.imgur.com/XWOs9Pn.png)

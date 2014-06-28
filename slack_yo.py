@@ -5,7 +5,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-@app.route('/yo', methods=['POST'])
+@app.route('/', methods=['POST'])
 def yo_handler():
     try:
         YO_API_TOKEN = os.environ['YO_API_TOKEN']

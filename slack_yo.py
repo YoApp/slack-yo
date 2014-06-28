@@ -20,4 +20,4 @@ def yo_handler():
         return json.dumps({'text': 'Error sensing Yo. Their API may be down, Yo.'})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
